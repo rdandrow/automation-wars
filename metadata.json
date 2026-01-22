@@ -1,0 +1,5 @@
+{
+  "name": "automation-wars",
+  "description": "An interactive CodeWars inspired environment for learning and practicing the Playwright and Cypress automation frameworks with tiered scenarios and AI-powered coding assistance.",
+  "requestFramePermissions": []
+}
